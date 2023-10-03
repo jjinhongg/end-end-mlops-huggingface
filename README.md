@@ -1,6 +1,6 @@
 ---
 title : Demo
-emoji : :moon:
+emoji : 🌔
 colorFrom : pink
 colorTo : pink
 sdk : gradio
