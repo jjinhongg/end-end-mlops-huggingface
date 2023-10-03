@@ -19,6 +19,6 @@ jobs:
         run: git remote add space https://jjinhongg:$HF@huggingface.co/spaces/jjinhongg/end-end-mlops-demo
       - name: Push to hub
         env:
-          HF: $${{ secrets.HUGGING_FACE }}
+          HF: ${{ secrets.HUGGING_FACE }}
         run: git push --force https://jjinhongg:$HF@huggingface.co/spaces/jjinhongg/end-end-mlops-demo main
         
