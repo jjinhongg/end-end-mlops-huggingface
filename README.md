@@ -16,4 +16,4 @@ license: cc
 
 [Try the demo text summarization here!](https://huggingface.co/spaces/jjinhongg/end-end-mlops-demo)
 
-
+![end-end-mlops-huggingface](https://github.com/jjinhongg/end-end-mlops-huggingface/assets/34515006/f28b73c3-7ec3-48ec-9b88-489870c27bba)
